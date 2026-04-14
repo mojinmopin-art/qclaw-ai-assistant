@@ -95,3 +95,8 @@ MIT License - see [LICENSE](LICENSE) for details.
 
 ---
 *Download, setup guide, and feature updates at [qq-claw.org](https://qq-claw.org)*
+
+## Related Projects
+- [OpenClaw AI](https://github.com/mojinmopin-art/openclaw-ai-assistant) - AI browser assistant for writing and coding
+- [SafeW Secure Messaging](https://github.com/mojinmopin-art/safew-security-tool) - Encrypted messaging app
+- [Translate Input Method](https://github.com/mojinmopin-art/translate-input-method) - Multilingual typing tool
